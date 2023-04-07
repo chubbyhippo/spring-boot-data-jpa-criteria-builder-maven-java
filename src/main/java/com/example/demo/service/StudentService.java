@@ -2,7 +2,6 @@ package com.example.demo.service;
 
 import com.example.demo.entity.Student;
 import jakarta.persistence.EntityManager;
-import jakarta.persistence.TypedQuery;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
